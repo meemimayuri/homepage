@@ -1,0 +1,42 @@
+body {
+  background-image:url("https://i.imgur.com/od9i8Ud.png");
+  background-color:#FFC8DD;
+  color:#2B2B2B;
+  font-family: "Cutive Mono", monospace;
+  font-weight: bold;
+}
+
+span.dreamy {
+    display: inline;
+    color:#CDB4DB;
+  }
+span.cottoncandy {
+    display:inline;
+    color:#FFC8DD;
+  }
+span.bubblegum {
+    display:inline;
+    color:#FFAFCC;
+  }
+span.water {
+    display:inline;
+    color:#BDE0FE;
+  }
+span.poppy {
+    display:inline;
+    color:#A2D2FF;
+  }
+.content {
+    background-color:#FCEEF3;
+    color:#FFAFCC;
+    border:2px solid #FFAFCC;
+    margin:10px;
+    padding:10px;
+    width:700px;
+  }
+.title {
+    color:#FCEEF3;
+    font-size: 36px;
+    text-shadow:#FFAFCC 2px 2px 2px;
+    margin-left:40px;
+  }
